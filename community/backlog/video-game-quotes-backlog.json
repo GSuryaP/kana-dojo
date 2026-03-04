@@ -27,7 +27,7 @@
     "character": "Luke fon Fabre",
     "id": 3,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "未来を変えるんだ！",
@@ -47,7 +47,7 @@
     "character": "Makoto Naegi",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "覚悟はいいか？ 俺はできてる。",
@@ -57,7 +57,7 @@
     "character": "Giorno Giovanna",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "仲間を信じろ",
@@ -1187,7 +1187,7 @@
     "character": "Various endings",
     "id": 119,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",
@@ -1197,6 +1197,6 @@
     "character": "Musashi reference",
     "id": 120,
     "issued": false,
-    "completed": false
+    "completed": true
   }
 ]
