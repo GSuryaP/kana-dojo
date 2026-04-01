@@ -130,5 +130,11 @@
   "termB": "consent (English)",
   "explanation": "コンセント means electrical outlet. (Set 6)",
   "example": "コンセントが足りないので延長コードを使います。"
+},
+{
+  "termA": "イメージ (imeeji)",
+  "termB": "image",
+  "explanation": "Often means impression/public image. (Set 6)",
+  "example": "会社のイメージが良くなった。"
 }
 ]
